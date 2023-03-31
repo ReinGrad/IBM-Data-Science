@@ -60,7 +60,8 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="#"><img src="" height="400"></a>
-  <a href="https://www.credly.com/badges/84b5d883-02e1-41d4-ba10-643ba6747b1e/public_url"><img src="https://user-images.githubusercontent.com/84391594/161432660-f158f03d-c164-43d4-92c6-b728868200e9.png" height="400"></a>
+  <a href="https://coursera.org/share/10fd25d7b790603e3bc3fdc12fc13e43"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LGSCZMDZS97Z/CERTIFICATE_LANDING_PAGE~LGSCZMDZS97Z.jpeg" height="400"></a>
+  <a href="https://coursera.org/share/7d0403a24c67ebc1d6b7243629d95db5"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CPKM444DPKCS/CERTIFICATE_LANDING_PAGE~CPKM444DPKCS.jpeg" height="400"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/84391594/161432660-f158f03d-c164-43d4-92c6-b728868200e9.png" height="400"></a>
 
 
